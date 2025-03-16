@@ -17,3 +17,5 @@ JavaScript - Functionality and interactions
 Add drag-and-drop functionality
 Implement a due date feature
 Add categories for tasks
+
+Feel free to fork, star, and contribute! 🎉
